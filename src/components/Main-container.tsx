@@ -1,6 +1,5 @@
 import React from "react";
-import Header from "./Header";
-import CountrtForm from "./CountrtForm";
+import CountrtForm from "./CountryForm";
 
 const MainContainer = () => {
   return (
